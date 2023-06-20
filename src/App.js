@@ -1,6 +1,5 @@
 import React from 'react'
 import Crud from './Crud'
-
 const App = () => {
   return (
     <div>
@@ -8,5 +7,4 @@ const App = () => {
     </div>
   )
 }
-
 export default App
